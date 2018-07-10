@@ -11,4 +11,4 @@ puts "How do you plan to spend the night?"
 
 nights = gets.chomp.capitalize
 
-puts "Great! So, you would you like to stay in #{stay} and eat at #{eat} near the #{night}."
+puts "Great! So, you would you like to stay in #{stay} and eat at #{eat} near the #{nights}."
