@@ -9,6 +9,6 @@ eat = gets.chomp
 
 puts "How do you plan to spend the night?"
 
-night = gets.chomp.capitalize
+nights = gets.chomp.capitalize
 
 puts "Great! So, you would you like to stay in #{stay} and eat at #{eat} near the #{night}."
